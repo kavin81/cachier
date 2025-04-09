@@ -1,7 +1,7 @@
 
 <p align="center">
   <a>
-    <img href="https://kavin.is-a.dev/project/cachier" src="https://gist.github.com/user-attachments/assets/225985fc-8915-4fd5-8d55-4ac3b46e2350" height="165">
+    <img href="https://kavin.is-a.dev/project/cachier" src="./assets/cachier_logo.png" height="165">
   </a>
 </p>
 
